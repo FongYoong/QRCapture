@@ -1,6 +1,9 @@
 # QRCapture
 
 * A simple [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview) app which captures the screen and naively interprets any available QR code. The user can select a portion of the screen capture to narrow down and improve accuracy.
+* **Download**
+    * [Installer](https://github.com/FongYoong/QRCapture/releases/latest/download/qr-capture_installer.zip)
+    * [Standalone EXE](https://github.com/FongYoong/QRCapture/releases/latest/download/QRCapture.exe)
 
 ## Usage
 1) Run the app
