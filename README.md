@@ -26,4 +26,5 @@
 ## Notification Icon
 
 * Closing the app will minimise it to the system notification tray and the shortcut **Ctrl + Print-Screen** will still work as usual. Right click on the notification icon and select **Quit** to fully quit the app.
-    ![NotificationIcon](https://i.imgur.com/pmcoHcE.png)
+
+![NotificationIcon](https://i.imgur.com/pmcoHcE.png)
